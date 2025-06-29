@@ -1,1 +1,1 @@
-# Image-to-Answer-LLM
+# PictoQuery AI
